@@ -1,5 +1,5 @@
 {
-  "name": "rupadana/filament-api-service",
+  "name": "dabrokezz/filament-api-service",
   "description": "A simple api service for supporting filamentphp",
   "keywords": [
     "rupadana",
@@ -9,10 +9,10 @@
     "filament",
     "filament api"
   ],
-  "homepage": "https://github.com/rupadana/api-service",
+  "homepage": "https://github.com/dabrokezz/api-service",
   "support": {
-    "issues": "https://github.com/rupadana/api-service/issues",
-    "source": "https://github.com/rupadana/api-service"
+    "issues": "https://github.com/dabrokezz/api-service/issues",
+    "source": "https://github.com/dabrokezz/api-service"
   },
   "license": "MIT",
   "authors": [
